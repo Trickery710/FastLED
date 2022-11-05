@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/PlatformIO/Projects/esp32_accesspoint"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../DavesGarageLEDSeries"
+		}
+	],
+	"settings": {}
+}

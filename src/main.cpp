@@ -1,3 +1,4 @@
+#include <Arduino.h>
 #include <FastLED.h>
 
 // How many leds in your strip?
